@@ -1,7 +1,6 @@
 ![Profile views](https://gpvc.arturio.dev/rohini-shinge)  
-### Hey I am **Rohini Shinge**!👋
+## Hey I am **Rohini Shinge**!👋
 ### Nice to see you here! 🤩
-#### I am Backend Developer 
 
 💻 Skills: Java | Spring | Hibernate | REST APIs | SQL 
 
