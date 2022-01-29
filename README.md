@@ -1,5 +1,5 @@
 ![Profile views](https://gpvc.arturio.dev/rohini-shinge)  
-## Hey, I am **Rohini Shinge**! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+# Hey, I am **Rohini Shinge**! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ### Nice to see you here! 🤩
 
 💻 Skills: Java | Spring | Hibernate | REST APIs | SQL 
