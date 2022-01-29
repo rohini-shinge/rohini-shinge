@@ -21,11 +21,10 @@ const rohini = {
 
 
 ```
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> My GitHub Stats 
+
  
-![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohini-shinge&theme=dark&show_icons=true)
-
-
-
+![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohini-shinge&theme=github_dark&show_icons=true)
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
