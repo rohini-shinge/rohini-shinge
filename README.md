@@ -1,4 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/rohini-shinge)  
+
+<img src="https://github.com/rohini-shinge/rohini-shinge/blob/main/header.png">
+
 ## Hey, I am **Rohini Shinge**!👋
 ### Nice to see you here! 🤩
 
