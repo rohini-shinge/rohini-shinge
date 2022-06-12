@@ -15,7 +15,7 @@ const rohini = {
                         member: "Women Who Code-Pune",
                         member: "Women In Tech-LTI"
                    },
-  otherInterests: [Reading, Modern Calligraphy, Doodling, Cricket]
+  otherInterests: [Reading, Doodling, Cricket]
 }
 
 
