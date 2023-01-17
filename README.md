@@ -1,7 +1,7 @@
 ### <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 # Hey, I am **Rohini Shinge**! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 ### Nice to see you here! 🤩
-<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">Java Developer at <a href="https://www.citigroup.com/citi/">Citi</a></br>:computer:  Previously Worked at </a><a href="https://www.ltimindtree.com/">LTIMindtree, </a><a href="https://www.zycus.com/">Zycus
+<p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Java Developer at <a href="https://www.citigroup.com/citi/">Citi</a></br>:computer:  Previously Worked at </a><a href="https://www.ltimindtree.com/">LTIMindtree, </a><a href="https://www.zycus.com/">Zycus
 </em></p>
 
 
