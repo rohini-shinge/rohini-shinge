@@ -16,11 +16,11 @@ const rohini = {
                         member: "Women Who Code-Pune",
                         member: "Women In Tech-LTI"
                    },
-    currentGoals: {
+    currentGoals: [
                         Practice Data Structures and Algorithms problems,
                         Learn and practice various Backend and System Design concepts,
-                        Get Familiar with Redis, Kafka and Reactive Programming
-                   },
+                        Get Familiar with Redis, Kafka, and Reactive Programming
+                   ],
   otherInterests: [Cricket, Reading, Dot Painting, Traveling]
 }
 
