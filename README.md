@@ -30,6 +30,8 @@ const rohini = {
 
 ![Rohini's GitHub stats](https://github-readme-stats.vercel.app/api?username=rohini-shinge&theme=github_dark&show_icons=true)
 
+[![Rohini's Roadmap.sh stats](https://api.roadmap.sh/v1-badge/wide/6517f8a2ca84609a77673044?variant=dark)](https://roadmap.sh)
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 [<img src='https://cdn3.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/rohini-shinge/)  [<img src='https://cdn3.iconfinder.com/data/icons/free-social-icons/67/instagram_circle_color-512.png' alt='instagram' height='40'>](https://www.instagram.com/rohini_shinge/)  [<img src='https://cdn3.iconfinder.com/data/icons/free-social-icons/67/twitter_circle_color-512.png' alt='twitter' height='40'>](https://twitter.com/rohini_shinge)  
