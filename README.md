@@ -10,8 +10,7 @@
 ```javascript
 const rohini = {
   pronouns: "She" | "Her",
-  code: [Java, SpringBoot, Hibernate, Rest],
-  architecture: [Microservices, Design Patterns],
+  techs : [Java, SpringBoot, Rest, Hibernate, Kafka, Microservices, SQL, MongoDB, OpenShift, CI/CD, Kubernetes],
   techCommunities: {
                         member: "Women Who Code-Pune",
                         member: "Women In Tech-LTI"
