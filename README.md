@@ -1,8 +1,11 @@
-### <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-# Hey, I am **Rohini Shinge**! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
-### Nice to see you here! 🤩
+# Hey, I am **Rohini Shinge**! 
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+Nice to see you here! 🤩
+</br>
+</br>
 <p><em><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Application Developer at <a href="https://github.com/citi">Citi</a></br>:computer:  Previously worked at </a><a href="https://www.ltimindtree.com/">LTIMindtree, </a><a href="https://www.zycus.com/">Zycus
 </em></p>
+
 
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
